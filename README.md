@@ -1,6 +1,8 @@
 # devops-netology
 
+
 # first modify
+
 
 # next files will be ignored:
 override.tf
