@@ -1,8 +1,6 @@
 # devops-netology
 
-
-# first modify
-
+#the first change
 
 # next files will be ignored:
 подкаталоги каталога /.terraform/
